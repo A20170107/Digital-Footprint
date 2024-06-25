@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid white;
+  height: 120 px;
+  background-color: #68b1a8;
+  margin: 10px;
+}
+body {
+  background-color: #69bdbf;
+}
+h1 {
+  color: white;
+  font-family: "Reboto", sans-serif;
+  font-size: 50px;
+  
+}
+.subtitulo {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  height: 120 px;
+  margin: 10px;
+}
+.subtitulo p{
+  color: white;
+  font-family: "Forte";
+  font-size: 30px;
+}
+.contenido{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid white;
+  height: 120 px;
+  background-color: #68b1a8;
+  margin: 10px;
+}
+.contenido img{
+  height: 180px;
+}
+.contenido p{
+  color: white;
+  font-family: "Comic Sans MS";
+  font-size: 30px;
+  margin: 20px;
+}
